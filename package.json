@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "express": "^5.2.1",
+    "uuid": "^13.0.0"
+  },
+  "name": "express.js-6-middleware",
+  "version": "1.0.0",
+  "description": "Backend application",
+  "main": "app.js",
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbdullayevTemurmalik/Express.JS-5dars.git"
+  },
+  "keywords": [
+    "Node.JS",
+    "Express.JS"
+  ],
+  "author": "TemurMalik Abdullayev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbdullayevTemurmalik/Express.JS-5dars/issues"
+  },
+  "homepage": "https://github.com/AbdullayevTemurmalik/Express.JS-5dars#readme"
+}
