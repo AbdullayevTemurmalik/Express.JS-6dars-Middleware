@@ -41,6 +41,7 @@ Ma’lumotlar **MongoDB** bazasiga ulanadi va so‘rovlar **Postman** orqali tes
 
 API endpointlar **Postman** orqali test qilingan.
 
+
 ---
 
 ✍️ **Muallif:** TemurMalik
