@@ -12,11 +12,6 @@ Ma’lumotlar **MongoDB** bazasiga ulanadi va so‘rovlar **Postman** orqali tes
 
 
 
-
-
-
-
-
 * Node.js
 * Express.js
 * MongoDB (Mongoose)
