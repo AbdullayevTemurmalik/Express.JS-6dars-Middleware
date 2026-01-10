@@ -10,7 +10,7 @@ app.use(express.json());
 app.use(express.static("static"));
 app.use(fileUpload({}));
 
-// Routes
+// Routess
 app.use("/api/post", require("./routes/post.route"));
 
 const PORT = process.env.PORT || 8080;
