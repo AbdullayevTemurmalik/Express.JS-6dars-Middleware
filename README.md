@@ -5,6 +5,7 @@ Ma’lumotlar **MongoDB** bazasiga ulanadi va so‘rovlar **Postman** orqali tes
 
 ## 🧩 Texnologiyalar
 
+
 * Node.js
 * Express.js
 * MongoDB (Mongoose)
