@@ -43,6 +43,5 @@ API endpointlar **Postman** orqali test qilingan.
 
 ---
 
-
 ✍️ **Muallif:** TemurMalik
 🔗 **GitHub:** [https://github.com/AbdullayevTemurmalik](https://github.com/AbdullayevTemurmalik)
